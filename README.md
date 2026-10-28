@@ -8,7 +8,7 @@ Très simple, appeler ./mygrep 'regex' monfichier.txt
 /!\ La regex doit être post-fixée, les symboles clés sont : 
 - @ pour la concaténation
 - | pour l'union
-- * pour l'étoile
+- '*' pour l'étoile
 - ? pour "caractère facultatif"
 - . pour un caractère quelconque
 
