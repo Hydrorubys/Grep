@@ -13,3 +13,5 @@ Très simple, appeler ./mygrep 'regex' monfichier.txt
 - . pour un caractère quelconque
 
 Et ces symbole ne doivent pas se retrouver dans la motif recherché (pas de symbole d'échappement tel que \@)
+
+J'ai mis le fichier francais.txt avec plein de mots francais pour faire des tests, des recherches etc
